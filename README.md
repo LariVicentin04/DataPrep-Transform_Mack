@@ -44,4 +44,5 @@ Docker: Plataforma de contêineres utilizada para facilitar a configuração e e
 
 Grupo:
 Larissa Vicentin Gramacho
+
 Bruna Marcieli
