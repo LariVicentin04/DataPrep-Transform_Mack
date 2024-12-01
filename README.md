@@ -10,6 +10,11 @@ Este projeto foi desenvolvido com o objetivo de criar um banco de dados transaci
 
 4. Definição da abordagem de tempestividade no fluxo de transformação, justificando a escolha entre Batch, Micro-Batch ou Fluxo Contínuo.
 
+# Estrutura dos dados transacionais
+
+![Estrutura dos dados](https://github.com/LariVicentin04/DataPrep-Transform_Mack/blob/main/estrutura_dados.png)
+
+
 # Ferramentas utilizadas
 
 PostgreSQL: Sistema de gerenciamento de banco de dados utilizado para criar os bancos transacional e analítico.
