@@ -20,7 +20,7 @@ Docker: Plataforma de contêineres utilizada para facilitar a configuração e e
 
 # Estrutura do repositório
 
-.
+```.
 ├── sql
 │   ├── script-create-olist.sql
 │   ├── star-schema-olist.sql
@@ -35,6 +35,6 @@ Docker: Plataforma de contêineres utilizada para facilitar a configuração e e
 ├── docs
 │   └── Tempestividade.md
 ├── README.md
-
+```
 
 
