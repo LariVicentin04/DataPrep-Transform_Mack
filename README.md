@@ -42,4 +42,6 @@ Docker: Plataforma de contêineres utilizada para facilitar a configuração e e
 ├── README.md
 ```
 
-
+Grupo:
+Larissa Vicentin Gramacho
+Bruna Marcieli
